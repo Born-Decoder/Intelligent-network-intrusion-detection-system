@@ -1,6 +1,6 @@
 ___________________________________________________________________________________________________________________________________________________________________________
 
-Author's note - Hi y'all, I have made this code totaly public and feel free to use it
+Author's note - Hi y'all, I have made this code totally public and feel free to use it
 
 ____________________________________________DOCUMENTATION_______________________________________________
 
