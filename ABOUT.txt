@@ -1,0 +1,22 @@
+Files
+
+1. deep-belief-network-master (folder that contains all required python libraries for DBN)
+   1.1 dbn.py (python code for DBN)
+2. allpacks.pcap (wireshark packet capture)
+3. cnn.py (python code for CNN)
+4. csvallpack.csv (exported packet details from allpacks.pcap)
+5. dbn.py (python code for DBN)
+6. nn.py (python code for ANN)
+7. normout.csv (normalized .csv from csvallpack.csv)
+8. pseudo.py (python code for labelling)
+9. READ_ME.txt (read me text file)
+10. rnn.py (python code for RNN)
+11. ABOUT.txt (this file)
+
+Note: Before running DBN, open deep-belief-network-master and run setup.py to setup and install all 
+      the required DBN libraries.
+
+By- Manoj Prabhakaran. V 
+    120014025
+    ICT A 
+    SASTRA University
