@@ -1,8 +1,4 @@
-___________________________________________________________________________________________________________________________________________________________________________
 
-Author's note - Hi y'all, I have made this code totally public and feel free to use it
-
-____________________________________________DOCUMENTATION_______________________________________________
 
 Overall Requirements - Python (3.5, keras, tensorflow, pandas, sklearn, numpy, matplotlib, keras,
 			tensorflow, pandas, sklearn, numpy, matplotlib, random), Wireshark.
